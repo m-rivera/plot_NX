@@ -15,3 +15,7 @@ Experimental data can be included with ```-e``` in a two column format of count 
 
 For more help try ```plot_NX -h```
 
+## Example output
+<p align="left">
+  <img height="300" src="https://i.imgur.com/0udJbC4.png">
+</p>
